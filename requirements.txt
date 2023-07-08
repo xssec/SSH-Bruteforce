@@ -1,0 +1,4 @@
+asyncssh
+asyncio
+argparse
+termcolor
